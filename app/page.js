@@ -1,6 +1,10 @@
+// until 37 min
+
 import Hero from "@/components/Hero";
 import Main from "@/components/Main";
 import Image from "next/image";
+
+
 
 // Exporting Home
 export default function HomePage() {
