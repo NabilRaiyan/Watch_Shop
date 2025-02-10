@@ -1,5 +1,4 @@
 
-
 // Home method
 export default function Home() {
   return (
